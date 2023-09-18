@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MAT221E",
+    "section": "",
+    "text": "Course Overview\nInstructor: Gül İnan\nCourse Description:\n\nThis course is an introductory level probability class on introducing following concepts: counting methods, permutation, combination, Binomial Theorem. Random experiments, sample space, events. Kolmogorov axioms, conditional probability, Bayes theorem. Random variables, discrete density functions, continuous density functions. Definition and properties of expectations. Variance. Moment generating functions. Special discrete and continuous distributions. Limit theorems, Chebyshev inequality. Law of large numbers and Central limit theorem.\n\nClass Schedule:\nCRN 11436:Thursdays between 11:30-14:30 p.m.\nClassroom: Room D-202 @ Faculty of Arts and Sciences."
+  },
+  {
+    "objectID": "instructor.html",
+    "href": "instructor.html",
+    "title": "MAT221E",
+    "section": "",
+    "text": "Instructor: Gül İnan\nE-mail: inan@itu.edu.tr\nOffice: Room 424 @ Department of Mathematics, Faculty of Arts and Sciences.\nOffice hour: You can ask me your questions right after the class or send me an e-mail for your queries."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "MAT221E",
+    "section": "",
+    "text": "Must course for undergraduate students.\n\n\n\n3 local credits.\n\n\n\nNone.\n\n\n\n\nThis course is an introductory level probability class on introducing following concepts: counting methods, permutation, combination, Binomial Theorem. Random experiments, sample space, events. Kolmogorov axioms, conditional probability, Bayes theorem. Random variables, discrete density functions, continuous density functions. Definition and properties of expectations. Variance. Moment generating functions. Special discrete and continuous distributions. Limit theorems, Chebyshev inequality. Law of large numbers and Central limit theorem.\n\n\n\n\nCRN 10622:Mondays between 08:30-11:30 p.m.\n\n\n\nRoom D-202 @ Faculty of Arts and Sciences.\n\n\n\n\nThis course aims to:\n\n\nTo provide the basic concepts of probability.\n\n\nTo set up probability models for a range of random phenomena, both discrete and continuous.\n\n\nTo develop critical thinking skills and abilities to apply calculus techniques (i.e., limits, derivatives, integration, infinite series) to assess the probability of an event.\n\n\n\n\n\n\n\nWe will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.\n\nCounting methods, combinatorial methods, product rule, permutation, combination, binomial expansion, multinomial expansion, tree diagram.\nAxioms of probability and related corollaries (with proofs).\nConditional probability, multiplication rule, independent of events, extension to multiple events.\n\nBayes’ theorem and the law of total probability.\nRandom variables, distributions and probability mass functions, cumulative distribution function.\n\nExpectation, variance, moment generating functions (MGF).\nSpecial discrete distributions: Bernoulli, Binomial distributions, Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. Expectation, variance, and MGF of these distributions.\nContinuous random variables: Probability density functions, Uniform, Exponential, Gamma, Normal, Standard Normal distributions. Expectation, variance, and MGF of these distributions.\nLimit theorems: Inequalities. Law of large numbers. Central limit theorem.\nJoint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Marginal and conditional density functions, independent random variables. Conditional expectation. Conditional variance. Transformations: Change of variables, convolutions\n\n\n\n\n\nA student who completed this course successfully is expected to:\n\n\nUnderstand and apply basic concepts of probability.\n\n\nUnderstand probability distributions for both discrete and continuous phenomena.\n\n\nCalculate basic characteristics such as mean and variance of probability distributions, and any probability associated with this distributions.\n\n\nUse special probability distributions for modeling events.\n\n\nUse limit theorems.\n\n\nimmediately following the course, and/or a few months after the course.\n\n\n\n\nAll lecture materials. Lecture notes will be uploaded on Ninova.\n\n\n\n1 homework, 1 midterm exam, class-in performance, and 1 final exam (see the grading policy below).\n\n\n\n\nStudents are encouraged to consult the following sources on their own:\n\n\nDeGroot., M.H. and Schervish, M.J. (2012). Probability and Statistics. Boston: Addison-Wesley, c2012. [Hard copy available at ITU Mustafa Inan Library with CALL #QA273 .D445 2012].\n\n\nHogg, V.H. and Craig, A.T. (1995). Introduction to Mathematical Statistics. New Jersey: Prentice-Hall International. [Hard copy available at ITU Mustafa Inan Library with CALL #QA276 .H643 1995].\n\n\nHogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010). Probability and Statistical Inference. Upper Saddle River, NJ, USA: Pearson/Prentice Hall.\n\n\nIşlak, Ümit. (2022). Temel Olasılık Teorisi ve İstatistik I. Nesin Yayınevi. (Baskıda)\n\n\nMiller, I. and Miller, M. (2004). John E. Freund’s mathematical statistics with applications. Upper Saddle River, NJ. [Hard copy available at ITU Mustafa Inan Library Reserve with CALL #QA276 .M55 2004].\n\n\nRoss, S. M. (2013). A First Course in Probability. Boston: Pearson.[Hard copy available at ITU Mustafa Inan Library with CALL #QA273 .R67 2013].\n\n\n\n\n\n\n\nAccess to library e-sources remotely is possible with a library account. Users without a library account should apply for the library registration at Library register. After setting the web configurations given at Proxy only once on your computer, you will able to have an access to ITU Library e-sources.\n\n\n\n\nFor the official ITU Fall 2022-2023 academic calendar, please visit:\nhttps://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvimler/takvim2024/lisans-akademik-takvimi.php\nHere are some selected important dates in Fall 2023 semester:\nOctober 2, 2023: First day of classes.\nOctober 2-13, 2023: Add-drop week.\nOctober 29, 2023: Republic Day of Turkey (Sunday).\nJanuary 1, 2024: New year (Monday).\nJanuary 5, 2024: Last day of classes.\nJanuary 8-21, 2024: Final exam week.\nI also honor other national and religious holidays. Students, who needs flexibility on individual-based studies overlapping with these special days, can inform me."
+  },
+  {
+    "objectID": "syllabus.html#grading-policy",
+    "href": "syllabus.html#grading-policy",
+    "title": "MAT221E",
+    "section": "Grading Policy",
+    "text": "Grading Policy\n\n\n\nAssessment Method\nContribution to Final Grade\n\n\n\n\nIn-class performance\n10%\n\n\n1 Homework\n10%\n\n\nMidterm exam\n40%\n\n\nFinal exam\n40%"
+  },
+  {
+    "objectID": "syllabus.html#midterm-date-will-be-updated",
+    "href": "syllabus.html#midterm-date-will-be-updated",
+    "title": "MAT221E",
+    "section": "Midterm date (will be updated)",
+    "text": "Midterm date (will be updated)\nTBA.\n\n\n\n\n\n\nImportant\n\n\n\n\nStudent studies, namely, homework and exam papers which are not written well, does not follow a proper mathematical writing language, and are hard to review, will get “0” credit for that question.\nPlease read the general advice given at: http://ma117.math.metu.edu.tr/course-info/general-advice/."
+  },
+  {
+    "objectID": "syllabus.html#late-submission-policy",
+    "href": "syllabus.html#late-submission-policy",
+    "title": "MAT221E",
+    "section": "Late Submission Policy",
+    "text": "Late Submission Policy\nThere are NO make-ups for missed homework or in-class activities."
+  },
+  {
+    "objectID": "syllabus.html#final-exam-attendance-policy",
+    "href": "syllabus.html#final-exam-attendance-policy",
+    "title": "MAT221E",
+    "section": "Final Exam Attendance Policy",
+    "text": "Final Exam Attendance Policy\nAt least 35% of in-semester studies."
+  },
+  {
+    "objectID": "syllabus.html#make-up-exam-policy",
+    "href": "syllabus.html#make-up-exam-policy",
+    "title": "MAT221E",
+    "section": "Make-Up Exam Policy",
+    "text": "Make-Up Exam Policy\n\nThe students who miss either midterm exam or final exam due to a health problem can take a make-up exam as long as they have a valid medical report taken on the exam day. The medical report should be handed in immediately (within two days of its expiration)."
+  },
+  {
+    "objectID": "syllabus.html#class-attendance-policy",
+    "href": "syllabus.html#class-attendance-policy",
+    "title": "MAT221E",
+    "section": "Class Attendance Policy",
+    "text": "Class Attendance Policy\n\nThe students must attend at least 70% of classes and are deemed responsible to manage his/her absences."
+  },
+  {
+    "objectID": "syllabus.html#participation-policy",
+    "href": "syllabus.html#participation-policy",
+    "title": "MAT221E",
+    "section": "Participation Policy",
+    "text": "Participation Policy\n\nThe students are expected to ask and answer questions, participate in in-class activities, and show their interest and engagement in the class."
+  },
+  {
+    "objectID": "syllabus.html#e-mail-policy",
+    "href": "syllabus.html#e-mail-policy",
+    "title": "MAT221E",
+    "section": "E-mail Policy",
+    "text": "E-mail Policy\nPlease:\n\nUse a proper descriptive subject line (which may consist of the course number MAT221E followed by a short phrase summarizing the subject of your e-mail).\nStart off your e-mail with a proper greeting, introduce yourself (give your name), then state your problem as short as possible.\nFinally, use a proper closing and then finish your e-mail with your first name and so on.\n\nFeel free to send me e-mails. But be sure you that give me enough time to get back to you.\n\n\n\n\n\n\nImportant\n\n\n\n\nE-mail messages sent after business hours and at weekends will be responded at the closest business hour.\nLastly, e-mails asking for grade grubbing at the end of the semester are not welcomed."
+  },
+  {
+    "objectID": "syllabus.html#academic-honesty-policy",
+    "href": "syllabus.html#academic-honesty-policy",
+    "title": "MAT221E",
+    "section": "Academic Honesty Policy",
+    "text": "Academic Honesty Policy\n\nAt every stage of the academic life, every ITU student is responsible for obeying the academic honesty policy of ITU stated below:\nhttps://odek.itu.edu.tr/en/code-of-honor/ethics-in-university-life."
+  },
+  {
+    "objectID": "syllabus.html#equity-diversity-and-inclusion",
+    "href": "syllabus.html#equity-diversity-and-inclusion",
+    "title": "MAT221E",
+    "section": "Equity, Diversity, and Inclusion",
+    "text": "Equity, Diversity, and Inclusion\n\nIn this class, I am committed to cultural and individual differences and diversity as including, but not limited to, age, disability, ethnicity, gender, gender identity, language, national origin, race, religion, culture, and socioeconomic status and I acknowledge the value of differences."
+  },
+  {
+    "objectID": "syllabus.html#student-with-special-needs",
+    "href": "syllabus.html#student-with-special-needs",
+    "title": "MAT221E",
+    "section": "Student with Special Needs",
+    "text": "Student with Special Needs\n\nIf you are a student with special needs, let me know that how we can adjust the course environment and materials in accordance with your needs. Furthermore, you are also invited to contact the office of students with special needs at:\nhttp://engelsiz.itu.edu.tr/."
+  }
+]

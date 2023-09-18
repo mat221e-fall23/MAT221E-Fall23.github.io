@@ -1,0 +1,25 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+![](/images/itu_header_2.jpeg)
+
+# Course Overview
+
+**Instructor:** [Gül İnan](https://gulinan.github.io/)
+
+**Course Description:**
+
+<p align="justify">
+
+This course is an introductory level probability class on introducing following concepts: counting methods, permutation, combination, Binomial Theorem. Random experiments, sample space, events. Kolmogorov axioms, conditional probability, Bayes theorem. Random variables, discrete density functions, continuous density functions. Definition and properties of expectations. Variance. Moment generating functions. Special discrete and continuous distributions. Limit theorems, Chebyshev inequality. Law of large numbers and Central limit theorem.
+
+<p>
+
+**Class Schedule:**
+
+`CRN 11436:`Thursdays between 11:30-14:30 p.m.
+
+**Classroom:** Room D-202 \@ Faculty of Arts and Sciences.
