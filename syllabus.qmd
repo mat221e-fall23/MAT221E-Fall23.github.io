@@ -22,7 +22,7 @@ None.
 
 <p align="justify">
 
-This course is an introductory level probability class on introducing following concepts: counting methods, permutation, combination, Binomial Theorem. Random experiments, sample space, events. Kolmogorov axioms, conditional probability, Bayes theorem. Random variables, discrete density functions, continuous density functions. Definition and properties of expectations. Variance. Moment generating functions. Special discrete and continuous distributions. Limit theorems, Chebyshev inequality. Law of large numbers and Central limit theorem.
+This course is an introductory level probability class on introducing following concepts: counting methods, permutation, combination, Binomial Theorem. Random experiments, sample space, events. Kolmogorov axioms, conditional probability, independent events, Bayes theorem. Random variables, probability distributions, continuous random variables, probability density functions. marginal distributions, conditional distributions. Definition and properties of expectations. Variance. Moment generating functions. Special discrete and continuous distributions. Functions of random variables.
 
 </p>
 
@@ -66,8 +66,8 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 -   Expectation, variance, moment generating functions (MGF).
 -   Special discrete distributions: Bernoulli, Binomial distributions, Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. Expectation, variance, and MGF of these distributions.
 -   Continuous random variables: Probability density functions, Uniform, Exponential, Gamma, Normal, Standard Normal distributions. Expectation, variance, and MGF of these distributions.
--   Limit theorems: Inequalities. Law of large numbers. Central limit theorem.
--   Joint distributions: Joint, marginal, and conditional distributions. Covariance and correlation. Marginal and conditional density functions, independent random variables. Conditional expectation. Conditional variance. Transformations: Change of variables, convolutions
+-   Joint distributions: Joint, marginal, and conditional distributions. Marginal and conditional density functions, independent random variables. 
+-   Transformations: Change of variables, convolutions
 
 ## Student Learning Outcomes
 
@@ -95,11 +95,11 @@ immediately following the course, and/or a few months after the course.
 
 ## Textbook
 
-All lecture materials. Lecture notes will be uploaded on [Ninova](https://ninova.itu.edu.tr).
+All lecture materials. 
 
 ## Course Workload
 
-**1 homework, 1 midterm exam, class-in performance, and 1 final exam (see the grading policy below).**
+**2 quizzes, 1 midterm exam, and 1 final exam (see the grading policy below).**
 
 ## Recommended Bibliography
 
@@ -115,7 +115,7 @@ Students are encouraged to consult the following sources on their own:
 
 <li>Hogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010). Probability and Statistical Inference. Upper Saddle River, NJ, USA: Pearson/Prentice Hall.</li>
 
-<li>Işlak, Ümit. (2022). Temel Olasılık Teorisi ve İstatistik I. Nesin Yayınevi. (Baskıda)</li>
+<li>Işlak, Ümit. (2022). [Temel Olasılık Teorisi ve İstatistik I. Nesin Yayınevi](https://www.nesinyayinevi.com/urun/temel-olasilik-teorisi-ve-istatistik-1).</li>
 
 <li>Miller, I. and Miller, M. (2004). John E. Freund's mathematical statistics with applications. Upper Saddle River, NJ. \[Hard copy available at ITU Mustafa Inan Library Reserve with CALL #QA276 .M55 2004\].</li>
 
@@ -147,7 +147,7 @@ October 2-13, 2023: Add-drop week.
 
 October 29, 2023: Republic Day of Turkey (Sunday).
 
-January 1, 2024: New year (Monday).
+January 1, 2024: New year (**Monday**).
 
 January 5, 2024: Last day of classes.
 
@@ -163,23 +163,23 @@ Please read the information below as a reference for how this class will be cond
 
 | Assessment Method    | Contribution to Final Grade |
 |:---------------------|:----------------------------|
-| In-class performance | 10%                         |
-| 1 Homework           | 10%                         |
+| 2 Quizzes            | Each 10%                    |
 | Midterm exam         | 40%                         |
 | Final exam           | 40%                         |
 
-## Midterm date (will be updated)
 
-TBA.
+## Midterm date 
+
+**During class at Week 9**.
 
 ::: callout-important
--   **Student studies, namely, homework and exam papers which are not written well, does not follow a proper mathematical writing language, and are hard to review, will get "0" credit for that question.**
+-   **Student studies, namely, quizzes and exam papers which are not written well, does not follow a proper mathematical writing language, and are hard to review, will get "0" credit for that question.**
 -   Please read the general advice given at: <http://ma117.math.metu.edu.tr/course-info/general-advice/>.
 :::
 
 ## Late Submission Policy
 
-There are **NO** make-ups for missed homework or in-class activities.
+There are **NO** make-ups for missed quizzes.
 
 ## Final Exam Attendance Policy
 
