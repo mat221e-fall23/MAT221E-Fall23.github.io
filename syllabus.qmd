@@ -169,7 +169,7 @@ Please read the information below as a reference for how this class will be cond
 |----------------------|-----------------------------|
 | Overall              | 100%                        |
 
-## Expectd Midterm date 
+## Expected Midterm date 
 
 The midterm is **expected** to take place **during class at Week 9**. 
 
@@ -206,7 +206,7 @@ The students must attend at least 70% of classes and are deemed responsible to m
 
 <p align="justify">
 
-The students are expected to ask and answer questions, participate in in-class activities, and show their interest and engagement in the class.
+The students are expected to ask and answer questions, and show their interest and engagement in the class.
 
 </p>
 
