@@ -95,7 +95,7 @@ immediately following the course, and/or a few months after the course.
 
 ## Textbook
 
-All lecture materials. 
+All lecture materials. Lecture notes will not be uploaded to Ninova.
 
 ## Course Workload
 
@@ -115,7 +115,7 @@ Students are encouraged to consult the following sources on their own:
 
 <li>Hogg, R. V., Tanis, E. A., and Zimmerman, D.L. (2010). Probability and Statistical Inference. Upper Saddle River, NJ, USA: Pearson/Prentice Hall.</li>
 
-<li>Işlak, Ümit. (2022). [Temel Olasılık Teorisi ve İstatistik I. Nesin Yayınevi](https://www.nesinyayinevi.com/urun/temel-olasilik-teorisi-ve-istatistik-1).</li>
+<li>Işlak, Ümit. (2022). [Temel Olasılık Teorisi ve İstatistik I.](https://www.nesinyayinevi.com/urun/temel-olasilik-teorisi-ve-istatistik-1). Nesin Yayınevi</li>
 
 <li>Miller, I. and Miller, M. (2004). John E. Freund's mathematical statistics with applications. Upper Saddle River, NJ. \[Hard copy available at ITU Mustafa Inan Library Reserve with CALL #QA276 .M55 2004\].</li>
 
