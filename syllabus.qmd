@@ -166,11 +166,12 @@ Please read the information below as a reference for how this class will be cond
 | 2 Quizzes            | Each 10%                    |
 | Midterm exam         | 40%                         |
 | Final exam           | 40%                         |
+|----------------------|-----------------------------|
+| Overall              | 100%                        |
 
+## Expectd Midterm date 
 
-## Midterm date 
-
-**During class at Week 9**.
+The midterm is **expected** to take place **during class at Week 9**. 
 
 ::: callout-important
 -   **Student studies, namely, quizzes and exam papers which are not written well, does not follow a proper mathematical writing language, and are hard to review, will get "0" credit for that question.**
@@ -183,7 +184,7 @@ There are **NO** make-ups for missed quizzes.
 
 ## Final Exam Attendance Policy
 
-At least 35% of in-semester studies.
+At least **25 points** from **in-semester studies**, that's from 2 quizzes and midterm.
 
 ## Make-Up Exam Policy
 
