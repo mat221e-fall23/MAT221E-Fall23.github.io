@@ -166,8 +166,7 @@ Please read the information below as a reference for how this class will be cond
 | 2 Quizzes              | Each 10%                      |
 | Midterm exam           | 40%                           |
 | Final exam             | 40%                           |
-| :--------------------- | :---------------------------- |
-| Overall                | 100%                          |
+
 
 ## Expected Midterm date
 
