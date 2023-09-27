@@ -66,7 +66,7 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 -   Expectation, variance, moment generating functions (MGF).
 -   Special discrete distributions: Bernoulli, Binomial distributions, Poisson, Geometric, Negative Binomial, Hypergeometric, and discrete uniform distributions. Expectation, variance, and MGF of these distributions.
 -   Continuous random variables: Probability density functions, Uniform, Exponential, Gamma, Normal, Standard Normal distributions. Expectation, variance, and MGF of these distributions.
--   Joint distributions: Joint, marginal, and conditional distributions. Marginal and conditional density functions, independent random variables. 
+-   Joint distributions: Joint, marginal, and conditional distributions. Marginal and conditional density functions, independent random variables.
 -   Transformations: Change of variables, convolutions
 
 ## Student Learning Outcomes
@@ -161,17 +161,17 @@ Please read the information below as a reference for how this class will be cond
 
 ## Grading Policy
 
-| Assessment Method    | Contribution to Final Grade |
-|:---------------------|:----------------------------|
-| 2 Quizzes            | Each 10%                    |
-| Midterm exam         | 40%                         |
-| Final exam           | 40%                         |
-|:---------------------|:----------------------------|
-| Overall              | 100%                        |
+| Assessment Method      | Contribution to Final Grade   |
+|:-----------------------|:------------------------------|
+| 2 Quizzes              | Each 10%                      |
+| Midterm exam           | 40%                           |
+| Final exam             | 40%                           |
+| :--------------------- | :---------------------------- |
+| Overall                | 100%                          |
 
-## Expected Midterm date 
+## Expected Midterm date
 
-The midterm is **expected** to take place **during class at Week 9**. 
+The midterm is **expected** to take place **during class at Week 9**.
 
 ::: callout-important
 -   **Student studies, namely, quizzes and exam papers which are not written well, does not follow a proper mathematical writing language, and are hard to review, will get "0" credit for that question.**
