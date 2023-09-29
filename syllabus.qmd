@@ -177,9 +177,6 @@ The midterm is **expected** to take place **during class at Week 9**.
 -   Please read the general advice given at: <http://ma117.math.metu.edu.tr/course-info/general-advice/>.
 :::
 
-## Late Submission Policy
-
-There are **NO** make-ups for missed quizzes.
 
 ## Final Exam Attendance Policy
 
@@ -189,7 +186,7 @@ At least **XXX points** (will be announced ASAP) from **in-semester studies**, t
 
 <p align="justify">
 
-The students who miss either midterm exam or final exam due to a health problem can take a make-up exam as long as they have a valid medical report taken on the exam day. The medical report should be handed in immediately (within two days of its expiration).
+The students who miss either midterm exam or final exam due to a health problem can take a make-up exam as long as they have a valid medical report taken on the exam day. The medical report should be handed in immediately (within two days of its expiration). There are **NO** make-ups for missed quizzes.
 
 </p>
 
