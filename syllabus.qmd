@@ -161,12 +161,11 @@ Please read the information below as a reference for how this class will be cond
 
 ## Grading Policy
 
-| Assessment Method      | Contribution to Final Grade   |
-|:-----------------------|:------------------------------|
-| 2 Quizzes              | Each 10%                      |
-| Midterm exam           | 40%                           |
-| Final exam             | 40%                           |
-
+| Assessment Method | Contribution to Final Grade |
+|:------------------|:----------------------------|
+| 2 Quizzes         | Each 10%                    |
+| Midterm exam      | 40%                         |
+| Final exam        | 40%                         |
 
 ## Expected Midterm date
 
@@ -177,10 +176,9 @@ The midterm is **expected** to take place **during class at Week 9**.
 -   Please read the general advice given at: <http://ma117.math.metu.edu.tr/course-info/general-advice/>.
 :::
 
-
 ## Final Exam Attendance Policy
 
-At least **XXX points** (will be announced ASAP) from **in-semester studies**, that's from 2 quizzes and midterm.
+At least **25 points** from **in-semester studies**, that's from 2 quizzes and midterm.
 
 ## Make-Up Exam Policy
 
